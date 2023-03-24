@@ -1,1 +1,1 @@
-COde to understand how to fetch api results 
+Code to understand how to fetch api results 
